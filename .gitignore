@@ -1,0 +1,10 @@
+# emacs extensions
+*~
+*#
+#*#
+
+# c++ extensions
+*.o
+
+# exec files
+ugly
